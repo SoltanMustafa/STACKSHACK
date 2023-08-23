@@ -1,0 +1,18 @@
+*{margin: 0; padding: 0;}
+.main{width: 1200px; height: 700px; margin: 30px auto 0 auto;}
+.solsutun{width: 300px; height: 700px; float: left; background-color: rgb(255, 205, 4); border-radius: 25px 0 0 25px;}
+.ketchup{width: 280px; height: 280px; background: url(/Tapsiriqlar/23.08.2023/src/images/SecretSauce.gif); background-size: cover; background-position: center; margin: 40px auto 0 auto;}
+.ortasutun{width: 600px; height: 700px; float: left; background-color: rgb(255, 205, 4);}
+.sagsutun{width: 300px; height: 700px; float: left; background-color: rgb(255, 205, 4); border-radius: 0 25px 25px 0;}
+.hotdog{width: 280px; height: 280px; background: url(/Tapsiriqlar/23.08.2023/src/images/TopDog.gif); background-size: cover; background-position: center; margin: 190px auto 0 auto;}
+.yazisahesi{width: 600px; height: 140px; float: left; padding: 60px 0 0 0;}
+.signin{width: 600px; height: 500px; float: left;}
+h1{font-size: 50px; font-weight: 800; font-family: "Antarctican Headline", Sans-serif; line-height: 45px; text-align: center; text-transform: uppercase; letter-spacing: -2px;}
+h2{font-size: 19px; font-weight: 600; font-family: "Roboto Condensed", Sans-serif; line-height: 40px; text-align: center; text-transform: uppercase; letter-spacing: -1px;}
+input{width: 582px; height: 50px; border-radius: 10px; border: 0; float: left; padding-left: 18px;}
+input:focus{outline: none; font-size: 21px; font-weight: 700; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-transform: uppercase;}
+::placeholder{font-size: 19px; font-weight: 500; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: left;}
+label{display: inline-block; width: 600px; height: 22px; font-size: 18px; font-weight: 600; font-family: "Antarctican Headline", Sans-serif; text-transform: uppercase; letter-spacing: -1px; float: left; padding: 15px 0 0 0;}
+label:hover{cursor: pointer;}
+button{width: 150px; height: 50px; background-color: #000; font-size: 18px; font-weight: 600; color: rgb(255, 205, 4); font-family: "Roboto Condensed", Sans-serif;; text-align: center; text-transform: uppercase; letter-spacing: -1px; border-radius: 8px; border: 0; margin: 18px 225px 0 225px; transition: transform 0.5s ease;}
+button:hover{background-color: #fff; color: #000; cursor: pointer; transform: translateY(-12px);}
